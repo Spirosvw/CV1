@@ -1,0 +1,92 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "education": "Undergraduate Student",
+    "skills": "Software Engineering"
+  },
+  "basics": {
+    "name": "Spiros Vergis",
+    "email": "p15verg@ionio.gr",
+    "phone": "6989285753",
+    "location": {
+      "address": "Corfu,GR"
+    },
+    "website": "https://spirosvw.github.io/CV/"
+  },
+  "education": [
+    {
+      "institution": "Ionian University",
+      "area": "Computer Science",
+      "studyType": "Undergraduate",
+      "gpa": "",
+      "location": "Corfu,GR",
+      "startDate": "Sept 2015",
+      "endDate": "June 2019"
+    }
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        null
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Matlab",
+        "Python"
+      ],
+      "name": "Coding"
+    },
+    {
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Matlab",
+        "Python"
+      ],
+      "name": "Code and Algorithm Analysis"
+    },
+    {
+      "keywords": [
+        "English:C2 Proficiency Level Knowledge",
+        "German: B2 Level Knowledge"
+      ],
+      "name": "Foreign Language Knowledge"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
